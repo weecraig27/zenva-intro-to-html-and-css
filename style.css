@@ -1,0 +1,50 @@
+/* Style the h1 tag */
+
+h1 {
+  color: red;
+  background-color: blue;
+}
+
+/* Style the p tag */
+
+/* p {
+  font-size: 30px;
+  color: darkred;
+} */
+
+/* Styling with ID's */
+
+#mainPar {
+  color: green;
+}
+
+/* Styling with Classes */
+
+.veg {
+  color: green;
+}
+
+.meat {
+  color: brown;
+}
+
+/* Box Model */
+
+#box {
+  background-color: yellow;
+  width: 200px;
+  height: 100px;
+  padding: 20px;
+  border: 2px solid black;
+  margin: 10px auto 10px auto;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 100px;
+}
+
+#box2 {
+  background-color: aqua;
+  margin-left: 20px;
+  padding: 0px 10px 30px 40px;
+  border: 2px dotted limegreen;
+}
